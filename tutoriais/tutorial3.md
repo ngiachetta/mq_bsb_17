@@ -145,7 +145,7 @@ Respire fundo e gaste um tempo refletindo sobre os "joins". Você acabou de apre
 
 ## Combinação de tabela e agregações cumulativas
 
-Vamos supor que queremos calcular os valores total, médio, máximo, etc, por município e, a seguir, apresentar esses valores como colunas para cada observação. Uma maneira eficiente de fazer isso é a usando a combinação de tabelas. Vamos er como voltando ao exemplo da amostra de saques do Programa Bolsa Família em 2017.
+Vamos supor que queremos calcular os valores total, médio, máximo, etc, por município e, a seguir, apresentar esses valores como colunas para cada observação. Uma maneira eficiente de fazer isso é a usando a combinação de tabelas. Vamos er[AQUI] como voltando ao exemplo da amostra de saques do Programa Bolsa Família em 2017.
 
 ## Exercício
 
