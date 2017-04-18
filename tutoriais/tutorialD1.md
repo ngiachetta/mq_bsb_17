@@ -71,6 +71,7 @@ Nosso primeiro exemplo de livro texto será com os _data frame_ Wage, disponíve
 ```{r}
 install.packages("ISLR")
 library(ISLR)
+library(tidyverse)
 data("Wage")
 glimpse(Wage)
 ```
